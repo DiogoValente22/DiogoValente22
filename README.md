@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**DiogoValente22/DiogoValente22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
 
-Here are some ideas to get you started:
+My name is Diogo Valente. I currently live in Espirito Santo, Brazil and i'm a computer science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my free time i play some games like League of Legends and PUBG with my friends. I also like to play piano and classical guitar.
+
+
+## Detailed information
+
+* **Name**: Diogo Valente
+* **Age**: 22
+* **Living in**: Espirito Santo, Brazil
+* **Stack**: HTML5 - CSS - PHP - Laravel - Bootstrap - MySQL - JavaScript
+* **University**: UVV
+
+## Curiosities about me
+
+* I really like to help people.
+* I love swimming in beaches and pools
+* I play classical guitar since i was 10 years old and I like to play any song, from classic songs to pop etc...
+* I started with coding using **C** in my university in 2017.
+
