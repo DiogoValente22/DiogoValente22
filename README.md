@@ -12,7 +12,7 @@ On my free time i play some games like League of Legends and PUBG with my friend
 * **Name**: Diogo Valente
 * **Age**: 22
 * **Living in**: Espirito Santo, Brazil
-* **Stack**: HTML5 - CSS - PHP - Laravel - Bootstrap - MySQL - JavaScript
+* **Stack**: HTML5 - CSS - PHP - Laravel - Bootstrap - MySQL - JavaScript - jQuery and AJAX
 * **University**: UVV
 
 ## Curiosities about me
