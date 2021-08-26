@@ -17,8 +17,8 @@ On my free time i play some games like League of Legends and PUBG with my friend
 
 ## Curiosities about me
 
+* I started with coding using **C** in my university in 2017.
 * I really like to help people.
 * I love swimming in beaches and pools
 * I play classical guitar since i was 10 years old and I like to play any song, from classic songs to pop etc...
-* I started with coding using **C** in my university in 2017.
 
