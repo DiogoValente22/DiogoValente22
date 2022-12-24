@@ -4,13 +4,6 @@
 
 My name is Diogo Valente. I am a front-end developer, working with VTEX and i am graduated in computer science
 
-## Detailed information
-
-* **Name**: Diogo Valente
-* **Age**: 22
-* **Living in**: Espirito Santo, Brazil
-* **University**: UVV
-
 ## Skills
 <br/>
 <p align="center">
