@@ -2,7 +2,7 @@
 
 ## Public information
 
-My name is Diogo Valente. I am a front-end developerand working with VTEX and i am graduated in computer science
+My name is Diogo Valente. I am a front-end developer, working with VTEX and i am graduated in computer science
 
 ## Detailed information
 
